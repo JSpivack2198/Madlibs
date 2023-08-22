@@ -4,8 +4,23 @@ flex-direction: column;
 align-items: center;
 }
 input{
-    width: 25%;
+    width: 15%;
+    opacity: 75%;
 }
 h1{
     text-align: center;
+    color: red;
+}
+body{
+    background-image: url(Sadako\ Ginyu.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 28%;
+}
+p{
+    background-color: pink;
+    color: red;
+    max-width: 50%;
+    font-size: 30px;
+    margin: auto;
 }
